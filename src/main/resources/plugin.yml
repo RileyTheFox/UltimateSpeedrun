@@ -1,0 +1,7 @@
+name: UltimateSpeedrun
+author: RileyTheFox
+main: co.uk.rileythefox.speedrun.SpeedrunCore
+version: 1.0
+api-version: 1.16
+description: Various speedrunning challenges.
+

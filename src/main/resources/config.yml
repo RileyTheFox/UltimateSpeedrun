@@ -1,0 +1,5 @@
+#
+# Ultimate Speedrun Plugin Config
+# Use this file to enable/disable any challenges, and edit their settings if applicable.
+#
+damage_on_no_movement: true
